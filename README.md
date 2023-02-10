@@ -22,8 +22,6 @@ Also learning web development using Java Script, HTML and Cascading Style Sheets
 <a href="https://www.linkedin.com/in/jahnavischauhan17/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
-<a href="[<hyperlink>](https://www.instagram.com/jahnavichauhan_/)"><img height="50" src="![3225191_app_instagram_logo_media_popular_icon](https://user-images.githubusercontent.com/117245795/218185325-50e2e7b7-0a25-464e-b764-5fe39917f47b.png)
-"/></a>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
