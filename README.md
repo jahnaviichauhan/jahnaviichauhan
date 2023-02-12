@@ -7,6 +7,7 @@
 </div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3>Student || UPES’26-CSE || Alumnus City Montessori School</h3>
 
 I’m currently working with
       Python :snake: and C programming language. :computer:
