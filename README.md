@@ -1,7 +1,9 @@
  
-<h1>
-  HI!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <h1 align="center">HI!
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
 </h1>
 
 
@@ -19,12 +21,24 @@ Also learning web development using Java Script, HTML and Cascading Style Sheets
 
 📫: jahnavischauhan17@gmail.com
 
-<a href="https://www.linkedin.com/in/jahnavischauhan17/">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a>
+<p align="center">
+<a href="https://www.linkedin.com/in/jahnavischauhan17/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ahnavischauhan" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/jahnavichauhan_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="jahnavichauhan_" height="50" width="50" /></a>
+</p>
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://github-readme-stats.vercel.app/api?username=jahnaviichauhan&show_icons=true"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnaviichauhan&label=Profile%20views&color=0e75b6&style=flat" alt="jahnaviichauhan" /> </p>
+<p>
+<a align= "center" href="https://github.com/jahnaviichauhan">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnaviichauhan&theme=radical">
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+</p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=jahnaviichauhan&count_private=true&theme=radical&show_icons=true" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jahnaviichauhan&theme=chartreuse-dark&border_radius=5.6&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
