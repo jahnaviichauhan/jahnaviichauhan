@@ -29,8 +29,6 @@ Also learning web development using Java Script, HTML and Cascading Style Sheets
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnaviichauhan&label=Profile%20views&color=0e75b6&style=flat" alt="jahnaviichauhan" /> </p>
-<p>
 <a align= "center" href="https://github.com/jahnaviichauhan">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnaviichauhan&theme=radical">
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
