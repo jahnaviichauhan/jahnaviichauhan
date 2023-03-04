@@ -29,14 +29,18 @@ Also learning web development using Java Script, HTML and Cascading Style Sheets
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<a align= "center" href="https://github.com/jahnaviichauhan">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=jahnaviichauhan&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnaviichauhan&label=Profile%20views&color=0e75b6&style=flat" alt="jahnaviichauhan" /> </p>
+<p>
+<img align= "center" alt= "stats card" height="200px" width="400" src="https://streak-stats.demolab.com/?user=jahnaviichauhan&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D">
+<p>
 </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=jahnaviichauhan&count_private=true&theme=radical&show_icons=true" />
-
+<img align= "center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=jahnaviichauhan&count_private=true&theme=react&show_icons=true&hide_border=true" />
+<p>
+</p>
+<img align= "center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnaviichauhan&theme=react&layout=compact&hide_border=true" />
+</p>
 
 <p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/jahnaviichauhan/ijahnaviichauhan/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
