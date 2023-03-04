@@ -41,6 +41,6 @@ Also learning web development using Java Script, HTML and Cascading Style Sheets
 </p>
 
 <p align="center">
-  <img src="https://github.com/jahnaviichauhan/ijahnaviichauhan/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
