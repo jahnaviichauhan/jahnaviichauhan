@@ -22,7 +22,7 @@ Also learning web development using Java Script, HTML and Cascading Style Sheets
 📫: jahnavischauhan17@gmail.com
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jahnavischauhan17/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ahnavischauhan" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jahnavischauhan17/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="jahnavischauhan" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/jahnavichauhan_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="jahnavichauhan_" height="50" width="50" /></a>
 </p>
 
