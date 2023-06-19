@@ -41,7 +41,5 @@ Also learning web development using Java Script, HTML and Cascading Style Sheets
 <img align= "center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnaviichauhan&theme=react&layout=compact&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
 
