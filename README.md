@@ -8,10 +8,15 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3>Student || UPES’26-CSE || Alumnus City Montessori School'22</h3>
+<h3>MLSA '23 | GSSoc '23 | Full Stack AI | Front-end Developer | UPES’26-CSE </h3>
 
+An optimistic, keen learner currently pursuing a bachelor's degree. Striving towards building my profile and gaining new experiences. I am a sophomore CS student with specialization in Full Stack AI.
+I love to talk about communities & opportunities and have been actively involved in the space for 2 years now! 
+I am a full stack developer and a learning enthusiast by heart. Passionate about coding and would love to contribute in aspirational environment. 
+Feel free to contact regrading any queries!
 I’m currently working with
-      Python :snake: and C programming language. :computer:
+      Python :snake:;
+      C programming language. :computer:
       
 Also learning web development using Java Script, HTML and Cascading Style Sheets(CSS)
 
@@ -20,6 +25,7 @@ Also learning web development using Java Script, HTML and Cascading Style Sheets
 ### :open_file_folder: How to reach me :
 
 📫: jahnavischauhan17@gmail.com
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jahnavischauhan17/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="jahnavischauhan" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
