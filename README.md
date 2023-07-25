@@ -8,7 +8,6 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3>MLSA '23 | GSSoc '23 | Full Stack AI | Front-end Developer | UPES’26-CSE </h3>
 
 An optimistic, keen learner currently pursuing a bachelor's degree. Striving towards building my profile and gaining new experiences. I am a sophomore CS student with specialization in Full Stack AI.
 I love to talk about communities & opportunities and have been actively involved in the space for 2 years now! 
