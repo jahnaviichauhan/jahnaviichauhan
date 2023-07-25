@@ -22,7 +22,7 @@ Also learning web development using Java Script, HTML and Cascading Style Sheets
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### :open_file_folder: How to reach me :
+### :open_file_folder: Connect with me :
 
 📫: jahnavischauhan17@gmail.com
 
