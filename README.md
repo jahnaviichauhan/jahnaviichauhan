@@ -9,15 +9,18 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-An optimistic, keen learner currently pursuing a bachelor's degree. Striving towards building my profile and gaining new experiences. I am a sophomore CS student with specialization in Full Stack AI.
+<p  align='center'>An optimistic, keen learner currently pursuing a bachelor's degree. Striving towards building my profile and gaining new experiences. I am a sophomore CSE student with specialization in Full Stack AI.
 I love to talk about communities & opportunities and have been actively involved in the space for 2 years now! 
 I am a full stack developer and a learning enthusiast by heart. Passionate about coding and would love to contribute in aspirational environment. 
-Feel free to contact regrading any queries!
-I’m currently working with
-      Python :snake:;
-      C programming language. :computer:
-      
-Also learning web development using Java Script, HTML and Cascading Style Sheets(CSS)
+Feel free to contact regrading any queries!</p>
+
+<p>
+
+ 
+</p>
+<p align='center'>
+  Passionate about programming and design</b> 
+</p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -26,12 +29,14 @@ Also learning web development using Java Script, HTML and Cascading Style Sheets
 📫: jahnavischauhan17@gmail.com
 
 
-<p align="center">
-<a href="https://www.linkedin.com/in/jahnavischauhan17/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="jahnavischauhan" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/jahnavichauhan_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="jahnavichauhan_" height="50" width="50" /></a>
-</p>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/jahnavischauhan17/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+   <a href=""https://instagram.com/jahnavichauhan_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+   <a href="https://twitter.com/jahnavichauhann"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /> </a></p>
 
+## Technologies💻
 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahnaviichauhan&label=Profile%20views&color=0e75b6&style=flat" alt="jahnaviichauhan" /> </p>
@@ -40,7 +45,7 @@ Also learning web development using Java Script, HTML and Cascading Style Sheets
 </p>
 <img align= "center" alt= "stats card" height="200px" width="400" src="https://streak-stats.demolab.com/?user=jahnaviichauhan&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D">
 
-<img align= "center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=jahnaviichauhan&count_private=true&theme=react&show_icons=true&hide_border=true" />
+
 <p>
 </p>
 <img align= "center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnaviichauhan&theme=react&layout=compact&hide_border=true" />
