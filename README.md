@@ -5,8 +5,8 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p  align='center'>An optimistic, keen learner currently pursuing a bachelor's degree. Striving towards building my profile and gaining new experiences. I am a sophomore CSE student with specialization in Full Stack AI.
-I am a full stack developer and a learning enthusiast by heart. Passionate about coding and would love to contribute in aspirational environment. 
+<p  align='center'>An optimistic, keen learner currently pursuing a bachelor's degree in Computer Science. Striving towards building my profile and gaining new experiences. I am a sophomore CSE student with specialization in Full Stack AI.
+I aim to be a full stack developer and am a learning enthusiast by heart. Passionate about coding and would love to contribute in aspirational environment. 
 Feel free to contact regrading any queries!</p>
 <p>
 
