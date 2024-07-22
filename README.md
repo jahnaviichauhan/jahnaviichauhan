@@ -50,6 +50,11 @@ Feel free to contact regrading any queries!</p>
 </p>
 <img align= "center" alt= "stats card" height="200px" width="400" src="https://streak-stats.demolab.com/?user=jahnaviichauhan&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D">
 
+<p>
+</p>
+<img align= "center" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnaviichauhan&theme=react&layout=compact&hide_border=true" />
+</p>
+
 <!--<h2>What I do?</h2>
 <ul>
   <l1>Frontend Developer</li>
